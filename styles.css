@@ -1,0 +1,168 @@
+/* =========================================
+   PUBLIC HEALTH ANALYTICS
+   Dark navy + teal research theme
+   ========================================= */
+
+:root {
+  --site-bg: #101c2b;
+  --site-panel: #192a3b;
+  --site-panel-light: #203448;
+  --site-border: #34475a;
+  --site-text: #edf1f4;
+  --site-muted: #aab9c7;
+  --site-teal: #49b3a5;
+  --site-teal-dark: #237c78;
+  --site-amber: #d49a53;
+}
+
+body {
+  background: var(--site-bg);
+  color: var(--site-text);
+  font-family: "Inter", "Helvetica Neue", sans-serif;
+  line-height: 1.7;
+}
+
+.navbar {
+  background: #0c1724 !important;
+  border-bottom: 1px solid var(--site-border);
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.navbar .nav-link {
+  color: var(--site-muted) !important;
+}
+
+.navbar .nav-link:hover {
+  color: var(--site-teal) !important;
+}
+
+h1, h2, h3, h4 {
+  color: #f4f6f8;
+  font-weight: 650;
+  letter-spacing: -0.025em;
+}
+
+h1 {
+  font-size: clamp(2.3rem, 5vw, 3.7rem);
+  line-height: 1.12;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--site-border);
+}
+
+p, li {
+  color: #c6d0d9;
+}
+
+a {
+  color: var(--site-teal);
+}
+
+a:hover {
+  color: #83d5c9;
+}
+
+.quarto-title-block .title {
+  color: #f4f6f8;
+}
+
+.quarto-title-block .subtitle {
+  color: var(--site-muted);
+}
+
+.quarto-category {
+  background: var(--site-panel-light);
+  border: 1px solid var(--site-border);
+  color: var(--site-teal);
+  border-radius: 4px;
+}
+
+.callout {
+  background: var(--site-panel) !important;
+  border-color: var(--site-teal) !important;
+  color: var(--site-text);
+}
+
+.callout .callout-title {
+  color: var(--site-teal);
+}
+
+pre, code {
+  background: #0c1724;
+  color: #b9ded8;
+  border-color: var(--site-border);
+}
+
+table {
+  color: var(--site-text) !important;
+  border-color: var(--site-border) !important;
+}
+
+th {
+  background: var(--site-panel-light);
+  color: #ffffff;
+}
+
+td {
+  background: var(--site-panel);
+}
+
+.figure, figure {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+figure img {
+  border-radius: 8px;
+  border: 1px solid var(--site-border);
+}
+
+figcaption {
+  color: var(--site-muted);
+  font-size: 0.9rem;
+  margin-top: 0.7rem;
+}
+
+#TOC, .sidebar nav {
+  background: transparent;
+}
+
+#TOC a, .sidebar nav a {
+  color: var(--site-muted);
+}
+
+#TOC a.active, .sidebar nav a.active {
+  color: var(--site-teal);
+}
+
+blockquote {
+  border-left: 3px solid var(--site-teal);
+  padding-left: 1rem;
+  color: var(--site-muted);
+}
+
+hr {
+  border-color: var(--site-border);
+}
+
+footer {
+  color: var(--site-muted);
+  border-top: 1px solid var(--site-border);
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+}
+
+::selection {
+  background: var(--site-teal-dark);
+  color: #ffffff;
+}
