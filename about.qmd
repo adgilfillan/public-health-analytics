@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a healthcare analytics professional interested
+in applying statistical modeling, data science, and
+research methods to complex public health challenges.
+
+This portfolio showcases independent analytical
+projects, original research, and interactive
+applications using publicly available data.
+
+My goal is to translate rigorous quantitative
+analysis into meaningful insights for healthcare
+organizations, researchers, and policymakers.

@@ -1,0 +1,48 @@
+
+---
+title: "Public Health Analytics"
+---
+
+# Understanding health through data.
+
+I explore public health challenges through statistical
+modeling, data science, and healthcare analytics.
+
+My work focuses on identifying population health
+disparities, evaluating healthcare interventions,
+and translating complex analytical findings into
+actionable insights.
+
+## Featured Research
+
+### Geographic Disparities in Preventable Mortality
+
+Exploring geographic variation in health outcomes
+across the United States using public health data,
+statistical modeling, and geospatial analysis.
+
+*Coming soon.*
+
+### Predicting Preventable Hospitalizations
+
+Investigating how predictive analytics can identify
+populations at elevated risk of avoidable healthcare
+utilization.
+
+*Coming soon.*
+
+## Areas of Interest
+
+- Population health analytics
+- Healthcare outcomes research
+- Epidemiology and biostatistics
+- Predictive modeling and machine learning
+- Causal inference and program evaluation
+- Healthcare economics and policy
+
+## Research Philosophy
+
+Good analytics should do more than describe a problem.
+It should help explain why it exists, identify
+opportunities for improvement, and inform better
+decisions.

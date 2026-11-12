@@ -1,0 +1,24 @@
+---
+title: "Methods"
+---
+
+# Analytical Methods
+
+My analytical toolkit includes:
+
+- Statistical modeling and regression
+- Predictive analytics and machine learning
+- Causal inference
+- Epidemiological methods
+- Geospatial analysis
+- Healthcare economics
+- Data visualization
+
+## Programming and Technologies
+
+- SAS
+- Python
+- R
+- SQL
+- Quarto
+- Git

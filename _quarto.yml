@@ -1,0 +1,31 @@
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Public Health Analytics"
+  description: "Research, data science, and population health."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: methods.qmd
+        text: Methods
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/adgilfillan/public-health-analytics
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto
