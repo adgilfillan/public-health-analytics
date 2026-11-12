@@ -1,48 +1,156 @@
 
 ---
-title: "Public Health Analytics"
+description: "Healthcare analytics, applied research, and data science for better population health."
+format:
+  html:
+    title-block-style: none
+toc: false
 ---
 
-# Understanding health through data.
+# Data-driven research for better health outcomes.
 
-I explore public health challenges through statistical
-modeling, data science, and healthcare analytics.
+**Healthcare analytics · Statistical modeling · Population health research**
 
-My work focuses on identifying population health
-disparities, evaluating healthcare interventions,
-and translating complex analytical findings into
-actionable insights.
+I use statistical modeling, data science, and healthcare analytics to investigate population health challenges, understand disparities, and evaluate opportunities to improve healthcare delivery.
 
-## Featured Research
+This portfolio brings together applied research, reproducible analytical workflows, and data visualization — translating complex evidence into meaningful insights for healthcare and public health.
 
-### Geographic Disparities in Preventable Mortality
+[Explore Research](research/index.qmd){.btn .btn-primary}
+[View Methodology](methods.qmd){.btn .btn-outline-secondary}
 
-Exploring geographic variation in health outcomes
-across the United States using public health data,
-statistical modeling, and geospatial analysis.
+---
 
-*Coming soon.*
+## Selected Research
 
-### Predicting Preventable Hospitalizations
+My research interests sit at the intersection of population health, healthcare utilization, and health policy. These projects demonstrate how analytical methods can be applied to important questions in healthcare.
 
-Investigating how predictive analytics can identify
-populations at elevated risk of avoidable healthcare
-utilization.
+::: {.grid}
 
-*Coming soon.*
+:::: {.g-col-12 .g-col-md-6}
 
-## Areas of Interest
+::: {.card .h-100}
+### 01 / Population Health
 
-- Population health analytics
-- Healthcare outcomes research
-- Epidemiology and biostatistics
+#### Geographic Disparities in Preventable Mortality
+
+Where are preventable deaths concentrated, and what geographic, socioeconomic, and healthcare-related factors help explain those differences?
+
+An analysis of geographic variation in preventable mortality across the United States, combining public health data, statistical modeling, and geospatial analysis.
+
+<small class="text-secondary">IN DEVELOPMENT · EPIDEMIOLOGY · GEOSPATIAL ANALYSIS</small>
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-6}
+
+::: {.card .h-100}
+### 02 / Predictive Analytics
+
+#### Predicting Preventable Hospitalizations
+
+Can predictive models help identify populations at elevated risk of avoidable hospital utilization?
+
+An investigation into statistical learning and predictive analytics to understand patterns in preventable hospitalizations and identify opportunities for earlier intervention.
+
+<small class="text-secondary">PLANNED · MACHINE LEARNING · HEALTHCARE UTILIZATION</small>
+:::
+
+::::
+
+:::: {.g-col-12 .g-col-md-6}
+
+::: {.card .h-100}
+### 03 / Program Evaluation
+
+#### Evaluating Community-Based Healthcare Interventions
+
+How can we determine whether community-based healthcare programs improve outcomes and reduce costs?
+
+An applied evaluation framework examining clinical outcomes, healthcare utilization, and financial impact using statistical methods and real-world healthcare data.
+
+<small class="text-secondary">PLANNED · OUTCOMES RESEARCH · PROGRAM EVALUATION</small>
+:::
+
+::::
+
+:::
+
+[Explore all research projects →](research/index.qmd)
+
+---
+
+## Analytical Capabilities
+
+My work combines established statistical methods with modern data science tools to address complex healthcare questions.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Statistical & Predictive Analytics
+
+- Regression and statistical inference
 - Predictive modeling and machine learning
-- Causal inference and program evaluation
-- Healthcare economics and policy
+- Classification and model validation
+- Risk adjustment and population stratification
+
+### Epidemiology & Outcomes Research
+
+- Population health analysis
+- Healthcare utilization and outcomes
+- Health disparities research
+- Comparative effectiveness
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Program Evaluation & Economics
+
+- Causal inference
+- Intervention evaluation
+- Clinical and financial outcomes
+- Healthcare cost analysis
+
+### Data & Visualization
+
+- SQL and data transformation
+- Reproducible analytical workflows
+- Interactive dashboards
+- Geospatial analysis and data storytelling
+
+:::
+
+:::
+
+### Technology
+
+::: {.technology-stack}
+**SAS** · **Python** · **R** · **SQL** · **Quarto** · **Git** · **Plotly**
+:::
+
+---
 
 ## Research Philosophy
 
-Good analytics should do more than describe a problem.
-It should help explain why it exists, identify
-opportunities for improvement, and inform better
-decisions.
+Good analytics should do more than describe a problem. It should help explain why the problem exists, identify opportunities for improvement, and provide evidence that supports better decisions.
+
+I believe rigorous analytical work should be:
+
+- **Reproducible:** Transparent methods, documented workflows, and traceable results.
+- **Evidence-based:** Grounded in reliable data and appropriate statistical techniques.
+- **Practical:** Focused on questions that matter to healthcare systems and populations.
+- **Responsible:** Attentive to uncertainty, limitations, privacy, and interpretation.
+
+The ultimate goal is to connect sound statistical analysis with meaningful improvements in healthcare and population health.
+
+---
+
+## About This Portfolio
+
+This is an evolving collection of independent research projects, analytical experiments, and applied data science work focused on public health and healthcare.
+
+Projects emphasize publicly available data, transparent methodology, reproducible analysis, and clear communication of findings.
+
+[Learn more about the methods and tools used in this portfolio →](methods.qmd)

@@ -1,0 +1,26 @@
+COUNTY HOSPITAL STAYS: FINAL ANALYSIS
+====================================
+
+County observations: 2684
+State clusters: 48
+R-squared: 0.3510
+
+ESTIMATED TURNING POINTS
+------------------------
+Obesity: 47.43%
+Diabetes: 21.53%
+
+QUADRATIC TERM P-VALUES
+----------------------
+Obesity: 0.058225
+Diabetes: 0.067050
+
+MODEL SPECIFICATION
+-------------------
+Outcome: Log-transformed county hospital stays.
+Predictors: Primary care access, obesity, diabetes, uninsurance, and unemployment.
+Obesity and diabetes include quadratic terms.
+State fixed effects included.
+Standard errors clustered by state.
+
+Interpretation: Adjusted observational associations. Turning points are model-derived estimates, not established clinical or policy thresholds.

@@ -19,3 +19,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Raw downloaded research data
+/data/raw/
