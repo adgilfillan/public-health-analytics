@@ -137,7 +137,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#research-projects" id="toc-research-projects" class="nav-link active" data-scroll-target="#research-projects">Research &amp; Projects</a>
   <ul class="collapse">
-  <li><a href="#featured-projects" id="toc-featured-projects" class="nav-link" data-scroll-target="#featured-projects">Featured Projects</a>
+  <li><a href="#completed-research" id="toc-completed-research" class="nav-link" data-scroll-target="#completed-research">Completed research</a>
+  <ul class="collapse">
+  <li><a href="#county-diabetes-obesity-and-hospital-utilization" id="toc-county-diabetes-obesity-and-hospital-utilization" class="nav-link" data-scroll-target="#county-diabetes-obesity-and-hospital-utilization">County Diabetes, Obesity, and Hospital Utilization</a></li>
+  </ul></li>
+  <li><a href="#future-research" id="toc-future-research" class="nav-link" data-scroll-target="#future-research">Future research</a>
   <ul class="collapse">
   <li><a href="#geographic-disparities-in-preventable-mortality" id="toc-geographic-disparities-in-preventable-mortality" class="nav-link" data-scroll-target="#geographic-disparities-in-preventable-mortality">Geographic Disparities in Preventable Mortality</a></li>
   <li><a href="#predicting-preventable-hospitalizations" id="toc-predicting-preventable-hospitalizations" class="nav-link" data-scroll-target="#predicting-preventable-hospitalizations">Predicting Preventable Hospitalizations</a></li>
@@ -171,9 +175,18 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="research-projects" class="level1">
 <h1>Research &amp; Projects</h1>
-<p>Original research exploring population health, healthcare outcomes, and public policy.</p>
-<section id="featured-projects" class="level2">
-<h2 class="anchored" data-anchor-id="featured-projects">Featured Projects</h2>
+<p>Original research exploring population health, healthcare outcomes, healthcare utilization, and public policy.</p>
+<section id="completed-research" class="level2">
+<h2 class="anchored" data-anchor-id="completed-research">Completed research</h2>
+<section id="county-diabetes-obesity-and-hospital-utilization" class="level3">
+<h3 class="anchored" data-anchor-id="county-diabetes-obesity-and-hospital-utilization"><a href="../research/diabetes-obesity-hospital-use.html">County Diabetes, Obesity, and Hospital Utilization</a></h3>
+<p>An adjusted county-level regression analysis examining nonlinear relationships between chronic disease prevalence and hospital stays.</p>
+<p><strong>Methods:</strong> Quadratic ordinary least squares regression, state fixed effects, state-clustered standard errors, and adjusted prediction curves.</p>
+<p><strong>Sample:</strong> 2,684 counties across 48 state clusters.</p>
+</section>
+</section>
+<section id="future-research" class="level2">
+<h2 class="anchored" data-anchor-id="future-research">Future research</h2>
 <section id="geographic-disparities-in-preventable-mortality" class="level3">
 <h3 class="anchored" data-anchor-id="geographic-disparities-in-preventable-mortality">Geographic Disparities in Preventable Mortality</h3>
 <p>An exploration of geographic variation in preventable mortality across the United States.</p>
@@ -265,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/adgilfillan\.github\.io\/public-health-analytics\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

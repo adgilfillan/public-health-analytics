@@ -16,41 +16,132 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Public Health Analytics",
+    "title": "Data-driven research for better health outcomes.",
     "section": "",
-    "text": "I explore public health challenges through statistical modeling, data science, and healthcare analytics.\nMy work focuses on identifying population health disparities, evaluating healthcare interventions, and translating complex analytical findings into actionable insights.\n\n\n\n\nExploring geographic variation in health outcomes across the United States using public health data, statistical modeling, and geospatial analysis.\nComing soon.\n\n\n\nInvestigating how predictive analytics can identify populations at elevated risk of avoidable healthcare utilization.\nComing soon.\n\n\n\n\n\nPopulation health analytics\nHealthcare outcomes research\nEpidemiology and biostatistics\nPredictive modeling and machine learning\nCausal inference and program evaluation\nHealthcare economics and policy\n\n\n\n\nGood analytics should do more than describe a problem. It should help explain why it exists, identify opportunities for improvement, and inform better decisions."
+    "text": "Healthcare analytics · Statistical modeling · Population health research\nI use statistical modeling, data science, and healthcare analytics to investigate population health challenges, understand disparities, and evaluate opportunities to improve healthcare delivery.\nThis portfolio brings together applied research, reproducible analytical workflows, and data visualization — translating complex evidence into meaningful insights for healthcare and public health.\nExplore Research View Methodology\n\n\n\nMy research interests sit at the intersection of population health, healthcare utilization, and health policy. These projects demonstrate how analytical methods can be applied to important questions in healthcare.\n\n\n\n\n\n\nWhere are preventable deaths concentrated, and what geographic, socioeconomic, and healthcare-related factors help explain those differences?\nAn analysis of geographic variation in preventable mortality across the United States, combining public health data, statistical modeling, and geospatial analysis.\nIN DEVELOPMENT · EPIDEMIOLOGY · GEOSPATIAL ANALYSIS\n\n\n\n\n\n\n\n\nCan predictive models help identify populations at elevated risk of avoidable hospital utilization?\nAn investigation into statistical learning and predictive analytics to understand patterns in preventable hospitalizations and identify opportunities for earlier intervention.\nPLANNED · MACHINE LEARNING · HEALTHCARE UTILIZATION\n\n\n\n\n\n\n\n\nHow can we determine whether community-based healthcare programs improve outcomes and reduce costs?\nAn applied evaluation framework examining clinical outcomes, healthcare utilization, and financial impact using statistical methods and real-world healthcare data.\nPLANNED · OUTCOMES RESEARCH · PROGRAM EVALUATION\n\n\n\n\nExplore all research projects →\n\n\n\n\nMy work combines established statistical methods with modern data science tools to address complex healthcare questions.\n\n\n\n\n\nRegression and statistical inference\nPredictive modeling and machine learning\nClassification and model validation\nRisk adjustment and population stratification\n\n\n\n\n\nPopulation health analysis\nHealthcare utilization and outcomes\nHealth disparities research\nComparative effectiveness\n\n\n\n\n\n\n\nCausal inference\nIntervention evaluation\nClinical and financial outcomes\nHealthcare cost analysis\n\n\n\n\n\nSQL and data transformation\nReproducible analytical workflows\nInteractive dashboards\nGeospatial analysis and data storytelling\n\n\n\n\n\n\n\nSAS · Python · R · SQL · Quarto · Git · Plotly\n\n\n\n\n\n\nGood analytics should do more than describe a problem. It should help explain why the problem exists, identify opportunities for improvement, and provide evidence that supports better decisions.\nI believe rigorous analytical work should be:\n\nReproducible: Transparent methods, documented workflows, and traceable results.\nEvidence-based: Grounded in reliable data and appropriate statistical techniques.\nPractical: Focused on questions that matter to healthcare systems and populations.\nResponsible: Attentive to uncertainty, limitations, privacy, and interpretation.\n\nThe ultimate goal is to connect sound statistical analysis with meaningful improvements in healthcare and population health.\n\n\n\n\nThis is an evolving collection of independent research projects, analytical experiments, and applied data science work focused on public health and healthcare.\nProjects emphasize publicly available data, transparent methodology, reproducible analysis, and clear communication of findings.\nLearn more about the methods and tools used in this portfolio →"
   },
   {
-    "objectID": "index.html#featured-research",
-    "href": "index.html#featured-research",
-    "title": "Public Health Analytics",
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "Data-driven research for better health outcomes.",
     "section": "",
-    "text": "Exploring geographic variation in health outcomes across the United States using public health data, statistical modeling, and geospatial analysis.\nComing soon.\n\n\n\nInvestigating how predictive analytics can identify populations at elevated risk of avoidable healthcare utilization.\nComing soon."
+    "text": "My research interests sit at the intersection of population health, healthcare utilization, and health policy. These projects demonstrate how analytical methods can be applied to important questions in healthcare.\n\n\n\n\n\n\nWhere are preventable deaths concentrated, and what geographic, socioeconomic, and healthcare-related factors help explain those differences?\nAn analysis of geographic variation in preventable mortality across the United States, combining public health data, statistical modeling, and geospatial analysis.\nIN DEVELOPMENT · EPIDEMIOLOGY · GEOSPATIAL ANALYSIS\n\n\n\n\n\n\n\n\nCan predictive models help identify populations at elevated risk of avoidable hospital utilization?\nAn investigation into statistical learning and predictive analytics to understand patterns in preventable hospitalizations and identify opportunities for earlier intervention.\nPLANNED · MACHINE LEARNING · HEALTHCARE UTILIZATION\n\n\n\n\n\n\n\n\nHow can we determine whether community-based healthcare programs improve outcomes and reduce costs?\nAn applied evaluation framework examining clinical outcomes, healthcare utilization, and financial impact using statistical methods and real-world healthcare data.\nPLANNED · OUTCOMES RESEARCH · PROGRAM EVALUATION\n\n\n\n\nExplore all research projects →"
   },
   {
-    "objectID": "index.html#areas-of-interest",
-    "href": "index.html#areas-of-interest",
-    "title": "Public Health Analytics",
+    "objectID": "index.html#analytical-capabilities",
+    "href": "index.html#analytical-capabilities",
+    "title": "Data-driven research for better health outcomes.",
     "section": "",
-    "text": "Population health analytics\nHealthcare outcomes research\nEpidemiology and biostatistics\nPredictive modeling and machine learning\nCausal inference and program evaluation\nHealthcare economics and policy"
+    "text": "My work combines established statistical methods with modern data science tools to address complex healthcare questions.\n\n\n\n\n\nRegression and statistical inference\nPredictive modeling and machine learning\nClassification and model validation\nRisk adjustment and population stratification\n\n\n\n\n\nPopulation health analysis\nHealthcare utilization and outcomes\nHealth disparities research\nComparative effectiveness\n\n\n\n\n\n\n\nCausal inference\nIntervention evaluation\nClinical and financial outcomes\nHealthcare cost analysis\n\n\n\n\n\nSQL and data transformation\nReproducible analytical workflows\nInteractive dashboards\nGeospatial analysis and data storytelling\n\n\n\n\n\n\n\nSAS · Python · R · SQL · Quarto · Git · Plotly"
   },
   {
     "objectID": "index.html#research-philosophy",
     "href": "index.html#research-philosophy",
-    "title": "Public Health Analytics",
+    "title": "Data-driven research for better health outcomes.",
     "section": "",
-    "text": "Good analytics should do more than describe a problem. It should help explain why it exists, identify opportunities for improvement, and inform better decisions."
+    "text": "Good analytics should do more than describe a problem. It should help explain why the problem exists, identify opportunities for improvement, and provide evidence that supports better decisions.\nI believe rigorous analytical work should be:\n\nReproducible: Transparent methods, documented workflows, and traceable results.\nEvidence-based: Grounded in reliable data and appropriate statistical techniques.\nPractical: Focused on questions that matter to healthcare systems and populations.\nResponsible: Attentive to uncertainty, limitations, privacy, and interpretation.\n\nThe ultimate goal is to connect sound statistical analysis with meaningful improvements in healthcare and population health."
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Data-driven research for better health outcomes.",
+    "section": "",
+    "text": "This is an evolving collection of independent research projects, analytical experiments, and applied data science work focused on public health and healthcare.\nProjects emphasize publicly available data, transparent methodology, reproducible analysis, and clear communication of findings.\nLearn more about the methods and tools used in this portfolio →"
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html",
+    "href": "research/diabetes-obesity-hospital-use.html",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "",
+    "text": "Chronic diseases such as diabetes and obesity contribute substantially to the healthcare needs of communities. Understanding how county-level disease prevalence relates to hospital utilization can help identify geographic patterns and inform further investigation into population health and healthcare delivery.\nThis analysis examines the relationship between county diabetes prevalence, county obesity prevalence, and hospital stays. It uses quadratic regression models to investigate whether these relationships are nonlinear after adjusting for selected socioeconomic and healthcare-access characteristics.\n\n\n\n\n\n\nNote\n\n\n\nKey takeaway\nBoth adjusted relationships increase across much of the observed prevalence range and then flatten. The estimated quadratic terms are suggestive but do not meet the conventional 0.05 statistical significance threshold. The estimated turning points should therefore be treated as exploratory, not as established thresholds."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#overview",
+    "href": "research/diabetes-obesity-hospital-use.html#overview",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "",
+    "text": "Chronic diseases such as diabetes and obesity contribute substantially to the healthcare needs of communities. Understanding how county-level disease prevalence relates to hospital utilization can help identify geographic patterns and inform further investigation into population health and healthcare delivery.\nThis analysis examines the relationship between county diabetes prevalence, county obesity prevalence, and hospital stays. It uses quadratic regression models to investigate whether these relationships are nonlinear after adjusting for selected socioeconomic and healthcare-access characteristics.\n\n\n\n\n\n\nNote\n\n\n\nKey takeaway\nBoth adjusted relationships increase across much of the observed prevalence range and then flatten. The estimated quadratic terms are suggestive but do not meet the conventional 0.05 statistical significance threshold. The estimated turning points should therefore be treated as exploratory, not as established thresholds."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#research-questions",
+    "href": "research/diabetes-obesity-hospital-use.html#research-questions",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Research questions",
+    "text": "Research questions\n\nHow is county diabetes prevalence associated with adjusted hospital stays?\nHow is county obesity prevalence associated with adjusted hospital stays?\nDo these relationships exhibit evidence of nonlinear patterns after accounting for other county characteristics and state-level differences?"
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#data-and-study-population",
+    "href": "research/diabetes-obesity-hospital-use.html#data-and-study-population",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Data and study population",
+    "text": "Data and study population\nThe analysis uses a county-level analytic dataset:\nanalytic_supplement_20260325[1].csv\nThe analytic sample includes 2,684 counties across 48 state clusters.\nThe variables used were:\n\n\n\nMeasure\nRole in analysis\n\n\n\n\nHospital stays\nOutcome\n\n\nDiabetes prevalence\nPrimary predictor\n\n\nObesity prevalence\nPrimary predictor\n\n\nPrimary care access\nAdjustment variable\n\n\nUninsured prevalence\nAdjustment variable\n\n\nUnemployment\nAdjustment variable\n\n\nState\nFixed effect and clustering variable\n\n\n\nCounties were retained when state and county codes were positive, hospital stays and primary care access were positive, and the model variables were available.\nThe original publisher, collection year, and detailed variable definitions should be confirmed against the source documentation before this analysis is used for external policy or clinical conclusions."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#statistical-methods",
+    "href": "research/diabetes-obesity-hospital-use.html#statistical-methods",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Statistical methods",
+    "text": "Statistical methods\n\nModel specification\nOrdinary least squares regression was used with the natural logarithm of hospital stays as the outcome.\nThe model included:\n\nLog-transformed primary care access.\nCentered diabetes prevalence and its squared term.\nCentered obesity prevalence and its squared term.\nCentered uninsured prevalence.\nCentered unemployment.\nState fixed effects.\n\nStandard errors were clustered by state to account for potential within-state correlation among county observations.\nThe model’s R-squared was 0.351.\n\n\nAdjusted predictions\nAdjusted predictions were generated across the observed range of each prevalence measure. Other predictors were held at their sample means, and the state fixed effect was held at the most frequently observed state (reference state code 48).\nThe shaded regions represent 95% confidence intervals for the adjusted mean predictions. These are not prediction intervals for individual counties.\n\n\nTurning points\nFor each quadratic relationship, the estimated turning point was calculated from the linear and quadratic coefficients:\n[ x^* = - ]\nThe resulting estimates describe the location of the fitted curve’s maximum when the quadratic coefficient is negative. They do not, by themselves, demonstrate that a meaningful threshold exists in the underlying population."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#results",
+    "href": "research/diabetes-obesity-hospital-use.html#results",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Results",
+    "text": "Results\n\nDiabetes prevalence\n\n\n\nAdjusted relationship between county diabetes prevalence and hospital stays. The shaded area represents the 95% confidence interval.\n\n\nThe estimated turning point was 21.53% diabetes prevalence.\nThe quadratic-term p-value was 0.0671.\nThe adjusted curve rises across much of the observed diabetes prevalence range before flattening near the estimated turning point. A slight decline appears beyond that point.\nHowever, the quadratic term does not meet the conventional 0.05 statistical significance threshold. The estimated turning point should therefore be interpreted cautiously.\n\n\nObesity prevalence\n\n\n\nAdjusted relationship between county obesity prevalence and hospital stays. The shaded area represents the 95% confidence interval.\n\n\nThe estimated turning point was 47.43% obesity prevalence.\nThe quadratic-term p-value was 0.0582.\nThe adjusted curve rises across much of the observed obesity prevalence range and begins to flatten near the estimated turning point. A slight decline appears at the highest prevalence levels.\nThe quadratic term approaches, but does not reach, conventional statistical significance. The estimated turning point is exploratory rather than conclusive."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#summary-of-findings",
+    "href": "research/diabetes-obesity-hospital-use.html#summary-of-findings",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Summary of findings",
+    "text": "Summary of findings\n\n\n\nAnalysis measure\nDiabetes\nObesity\n\n\n\n\nEstimated turning point\n21.53%\n47.43%\n\n\nQuadratic-term p-value\n0.0671\n0.0582\n\n\nMeets 0.05 significance threshold?\nNo\nNo\n\n\n\nThe model included 2,684 county observations, 48 state clusters, and had an R-squared of 0.351.\nTaken together, the findings suggest that county-level diabetes and obesity prevalence may have nonlinear relationships with hospital utilization. However, neither quadratic term achieved conventional statistical significance."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#interpretation-and-implications",
+    "href": "research/diabetes-obesity-hospital-use.html#interpretation-and-implications",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Interpretation and implications",
+    "text": "Interpretation and implications\nThe results are consistent with a positive association between chronic disease prevalence and adjusted hospital utilization across much of the observed range. The flattening of the fitted curves raises questions about whether the relationship changes at higher levels of prevalence.\nSeveral explanations could account for these patterns, including differences in healthcare access, disease management, population characteristics, and the distribution of other county-level factors. This analysis does not distinguish among those explanations.\nThe results should not be interpreted as evidence that increasing diabetes or obesity prevalence reduces hospital utilization beyond the estimated turning points."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#limitations",
+    "href": "research/diabetes-obesity-hospital-use.html#limitations",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Limitations",
+    "text": "Limitations\n\nObservational design: The analysis identifies associations and cannot establish causal effects.\nEcological analysis: County-level relationships cannot be assumed to represent individual-level relationships.\nResidual confounding: Adjustment for the included variables and state fixed effects does not eliminate all potential confounding.\nUncertain turning points: Neither quadratic term achieved the conventional 0.05 significance threshold.\nUncertainty at the extremes: Confidence intervals widen substantially at higher prevalence levels, indicating less precise estimates.\nData provenance: The original dataset publisher, collection year, and full measure definitions require confirmation from the source documentation.\nModel specification: Results may be sensitive to the functional form, included covariates, and treatment of geographic clustering."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#conclusion",
+    "href": "research/diabetes-obesity-hospital-use.html#conclusion",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Conclusion",
+    "text": "Conclusion\nCounty-level diabetes and obesity prevalence show suggestive nonlinear relationships with adjusted hospital utilization. Both fitted curves increase across much of the observed prevalence range before flattening. Estimated turning points were 21.53% for diabetes and 47.43% for obesity, but neither quadratic term was statistically significant at the 0.05 level.\nThese findings are best viewed as exploratory evidence that warrants additional investigation. Longitudinal data, alternative model specifications, and more detailed measures of healthcare access could help determine whether these patterns are robust."
+  },
+  {
+    "objectID": "research/diabetes-obesity-hospital-use.html#reproducibility",
+    "href": "research/diabetes-obesity-hospital-use.html#reproducibility",
+    "title": "County Diabetes, Obesity, and Hospital Utilization",
+    "section": "Reproducibility",
+    "text": "Reproducibility\nThe analysis was conducted in Python using:\n\npandas for data preparation.\nNumPy for numerical calculations.\nstatsmodels for regression modeling and clustered standard errors.\nPatsy for model design matrices.\nMatplotlib for visualization.\n\nThe analysis script is maintained in the project repository as plot_adjusted_relationships.py.\nThe figures shown above were generated from the fitted model and saved as PNG files in the project’s research figures directory.\n\nThis analysis is intended for research and educational purposes. Findings are observational and should not be interpreted as causal effects or clinical guidance."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Original research exploring population health, healthcare outcomes, and public policy.\n\n\n\n\nAn exploration of geographic variation in preventable mortality across the United States.\n\n\n\nAn investigation into predictive modeling and healthcare utilization.\n\n\n\nA causal evaluation of community-based healthcare interventions and their impact on outcomes."
+    "text": "Original research exploring population health, healthcare outcomes, healthcare utilization, and public policy.\n\n\n\n\nAn adjusted county-level regression analysis examining nonlinear relationships between chronic disease prevalence and hospital stays.\nMethods: Quadratic ordinary least squares regression, state fixed effects, state-clustered standard errors, and adjusted prediction curves.\nSample: 2,684 counties across 48 state clusters.\n\n\n\n\n\n\nAn exploration of geographic variation in preventable mortality across the United States.\n\n\n\nAn investigation into predictive modeling and healthcare utilization.\n\n\n\nA causal evaluation of community-based healthcare interventions and their impact on outcomes."
   },
   {
-    "objectID": "research/index.html#featured-projects",
-    "href": "research/index.html#featured-projects",
+    "objectID": "research/index.html#completed-research",
+    "href": "research/index.html#completed-research",
+    "title": "Research",
+    "section": "",
+    "text": "An adjusted county-level regression analysis examining nonlinear relationships between chronic disease prevalence and hospital stays.\nMethods: Quadratic ordinary least squares regression, state fixed effects, state-clustered standard errors, and adjusted prediction curves.\nSample: 2,684 counties across 48 state clusters."
+  },
+  {
+    "objectID": "research/index.html#future-research",
+    "href": "research/index.html#future-research",
     "title": "Research",
     "section": "",
     "text": "An exploration of geographic variation in preventable mortality across the United States.\n\n\n\nAn investigation into predictive modeling and healthcare utilization.\n\n\n\nA causal evaluation of community-based healthcare interventions and their impact on outcomes."
