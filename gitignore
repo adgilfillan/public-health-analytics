@@ -1,0 +1,10 @@
+.DS_Store
+_site/
+.quarto/
+__pycache__/
+*.pyc
+.venv/
+.Rhistory
+.RData
+.Ruserdata
+.ipynb_checkpoints/
