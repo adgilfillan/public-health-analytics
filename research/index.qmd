@@ -1,0 +1,26 @@
+
+---
+title: "Research"
+---
+
+# Research & Projects
+
+Original research exploring population health,
+healthcare outcomes, and public policy.
+
+## Featured Projects
+
+### Geographic Disparities in Preventable Mortality
+
+An exploration of geographic variation in
+preventable mortality across the United States.
+
+### Predicting Preventable Hospitalizations
+
+An investigation into predictive modeling and
+healthcare utilization.
+
+### Evaluating Community-Based Healthcare
+
+A causal evaluation of community-based healthcare
+interventions and their impact on outcomes.
